@@ -5,7 +5,7 @@ export default function Footer() {
     {
       icon: 'lucide:linkedin',
       label: 'LinkedIn',
-      href: 'www.linkedin.com/in/vibhore-kumar-9b9298376',
+      href: 'https://www.linkedin.com/in/vibhore-kumar-9b9298376',
     },
     {
       icon: 'simple-icons:github',
