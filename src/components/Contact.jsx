@@ -83,7 +83,7 @@ export default function Contact() {
               <label>Name</label>
               <input
                 type="text"
-                name="user_name"
+                name="from_name"
                 placeholder="Your name"
                 required
               />
@@ -93,7 +93,7 @@ export default function Contact() {
               <label>Email</label>
               <input
                 type="email"
-                name="user_email"
+                name="from_email"
                 placeholder="you@email.com"
                 required
               />
