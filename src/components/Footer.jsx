@@ -5,7 +5,7 @@ export default function Footer() {
     {
       icon: 'lucide:linkedin',
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/vibhorekumar-9b9298376',
+      href: 'www.linkedin.com/in/vibhore-kumar-9b9298376',
     },
     {
       icon: 'simple-icons:github',
@@ -28,7 +28,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-left">
-          © {year} <span className="accent">VIBHORE.K</span> — Built with React
+          © {year} <span className="accent">VIBHORE_KUMAR</span> — Built with React
           &amp; dedication
         </div>
         <div className="footer-socials">
