@@ -10,7 +10,7 @@ export default function Footer() {
     {
       icon: 'simple-icons:github',
       label: 'GitHub',
-      href: 'https://github.com/dashboard',
+      href: 'https://github.com/VibhoreKumar',
     },
     {
       icon: 'simple-icons:leetcode',
@@ -28,8 +28,8 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-left">
-          © {year} <span className="accent">VIBHORE_KUMAR</span> — Built with React
-          &amp; dedication
+          © {year} <span className="accent">VIBHORE_KUMAR</span> 
+          
         </div>
         <div className="footer-socials">
           {socials.map((s, i) => (
